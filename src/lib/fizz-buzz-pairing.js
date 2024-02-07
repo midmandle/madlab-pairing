@@ -1,3 +1,3 @@
-export function fizzBuzzPairing() {
-  return 'fizz-buzz-pairing';
+export function fizzBuzz(input) {
+  return '';
 }
