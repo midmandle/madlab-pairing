@@ -23,6 +23,12 @@
       "options": {
         "reportsDirectory": "coverage/fizz-buzz-pairing"
       }
+    },
+    "start": {
+      "executor": "@nx/js:node",
+      "options": {
+        "buildTarget": "fizz-buzz-pairing:build"
+      }
     }
   },
   "tags": []

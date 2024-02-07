@@ -1,3 +1,3 @@
 export function fizzBuzz(input) {
-  return '';
+  return 'Hey';
 }

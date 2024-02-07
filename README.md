@@ -9,3 +9,7 @@ Run `nx build fizz-buzz-pairing` to build the library.
 ## Running unit tests
 
 Run `nx test fizz-buzz-pairing` to execute the unit tests via [Vitest](https://vitest.dev/).
+
+## Running the code
+
+Run `npx nx run start` to execute the code in your terminal.
